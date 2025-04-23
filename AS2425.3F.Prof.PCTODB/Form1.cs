@@ -1,7 +1,7 @@
 using System.Data;
 using System.Data.SQLite;
 
-namespace AS2324._3G.Prof.PCTODB
+namespace AS2425._3F.Prof.PCTODB
 {
     public partial class Form1 : Form
     {
@@ -20,7 +20,7 @@ namespace AS2324._3G.Prof.PCTODB
             // imposta la connessione
 
             // sqlite Data Source=c:\mydb.db;Version=3;
-            strConnessione = "Data Source=" + @"C:\Appl\Scuola\AS_2023_2024\3G\AS2324.3G.Prof.PCTODB\AS2324.3G.Prof.PCTODB\DB\MotoGP.db" + ";Version=3;";
+            strConnessione = "Data Source=" + @"C:\Appl\Scuola\AS_2024_2025\3F\AS2425.3F.Prof.PCTODB\AS2425.3F.Prof.PCTODB\DB\MotoGP.db" + ";Version=3;";
 
             // contenitore per i dati estratti
             DataTable dtDati = new DataTable();
@@ -56,7 +56,7 @@ namespace AS2324._3G.Prof.PCTODB
             // imposta la connessione
 
             // sqlite Data Source=c:\mydb.db;Version=3;
-            strConnessione = "Data Source=" + @"C:\Appl\Scuola\AS_2023_2024\3G\AS2324.3G.Prof.PCTODB\AS2324.3G.Prof.PCTODB\DB\MotoGP.db" + ";Version=3;";
+            strConnessione = "Data Source=" + @"C:\Appl\Scuola\AS_2024_2025\3F\AS2425.3F.Prof.PCTODB\AS2425.3F.Prof.PCTODB\DB\MotoGP.db" + ";Version=3;";
 
             // contenitore per i dati estratti
             DataTable dtDati = new DataTable();

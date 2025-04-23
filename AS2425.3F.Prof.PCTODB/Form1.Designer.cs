@@ -1,4 +1,4 @@
-﻿namespace AS2324._3G.Prof.PCTODB
+﻿namespace AS2425._3F.Prof.PCTODB
 {
     partial class Form1
     {
@@ -72,7 +72,7 @@
             Controls.Add(btnElencoPiloti);
             Controls.Add(dgvDati);
             Name = "Form1";
-            Text = "Prof;02/05/2024;3G;PCTO DB test uso DB da c#";
+            Text = "Prof;24/04/2025;3F;PCTO DB test uso DB da c#";
             ((System.ComponentModel.ISupportInitialize)dgvDati).EndInit();
             ResumeLayout(false);
         }

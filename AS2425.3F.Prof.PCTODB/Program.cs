@@ -1,4 +1,4 @@
-namespace AS2324._3G.Prof.PCTODB
+namespace AS2425._3F.Prof.PCTODB
 {
     internal static class Program
     {
