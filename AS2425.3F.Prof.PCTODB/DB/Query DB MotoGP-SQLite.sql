@@ -120,3 +120,12 @@ FROM
 		Squadre.idSquadre=Piloti.idSquadre 
 ORDER BY 
 	Piloti.nome, Piloti.cognome;
+
+SELECT 
+	piloti.nome, piloti.cognome, squadre.nome as nome_squadra
+FROM 
+	Piloti
+    INNER JOIN Squadre ON
+    	Piloti.IdSquadre = Squadre.IdSquadre
+ORDER BY
+	Piloti.nome

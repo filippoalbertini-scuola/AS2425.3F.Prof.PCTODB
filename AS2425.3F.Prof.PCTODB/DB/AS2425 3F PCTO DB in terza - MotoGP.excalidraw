@@ -72,7 +72,8 @@
       "verticalAlign": "middle",
       "containerId": "dUxHZ9YJQ7e6ZGvRGmWnU",
       "originalText": "Piloti",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "rectangle",
@@ -143,7 +144,8 @@
       "verticalAlign": "middle",
       "containerId": "UPkguHA-HaeuI2xLliEyZ",
       "originalText": "Circuiti",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "rectangle",
@@ -214,7 +216,8 @@
       "verticalAlign": "middle",
       "containerId": "zOE1zbwNx_18gAYPPuIgY",
       "originalText": "Gare",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "text",
@@ -250,7 +253,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Moto GP",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "rectangle",
@@ -321,7 +325,8 @@
       "verticalAlign": "middle",
       "containerId": "biADFN5r2HvIeIX8R8UVp",
       "originalText": "Squadre",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "diamond",
@@ -477,7 +482,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "1",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "text",
@@ -513,7 +519,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "n",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "diamond",
@@ -654,7 +661,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Punteggio",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "line",
@@ -786,40 +794,41 @@
       "locked": false
     },
     {
-      "id": "Qlz83EQPbWL912C_RKvng",
       "type": "text",
-      "x": 1140.469985961914,
-      "y": 432.70001220703125,
-      "width": 51.659942626953125,
-      "height": 50,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
+      "version": 177,
+      "versionNonce": 1618518077,
+      "index": "aKV",
+      "isDeleted": false,
+      "id": "Qlz83EQPbWL912C_RKvng",
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 1140.469985961914,
+      "y": 432.70001220703125,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 51.659942626953125,
+      "height": 50,
+      "seed": 1186198707,
       "groupIds": [],
       "frameId": null,
-      "index": "aKV",
       "roundness": null,
-      "seed": 1186198707,
-      "version": 177,
-      "versionNonce": 1618518077,
-      "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1714637740771,
       "link": null,
       "locked": false,
-      "text": "corso\nin",
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "corso\nin",
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "rAKC499WgpvoNirBIWd0-",
       "originalText": "corso in",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "line",
@@ -945,7 +954,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "1",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "text",
@@ -981,7 +991,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "n",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "text",
@@ -1017,7 +1028,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "1",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "text",
@@ -1053,7 +1065,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "n",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "text",
@@ -1089,7 +1102,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Entity - Relationship E-R/modello concettuale",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "text",
@@ -1125,7 +1139,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Query SQL :\n\nDDL = Data definition language\nDML = Data manipulation language\nQL = Query language",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "rectangle",
@@ -1191,7 +1206,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Entitè - tabelle",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "diamond",
@@ -1257,7 +1273,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Relazioni",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "text",
@@ -1293,7 +1310,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "1. Modello concettuale E-R\n2. Progetto logico (https://sqliteonline.com/)\n3. Progetto fisico",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "text",
@@ -1329,7 +1347,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "appartiene",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "text",
@@ -1365,7 +1384,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "corso da",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "line",
@@ -1476,7 +1496,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "IdPiloti",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "ellipse",
@@ -1542,7 +1563,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "IdSquadre",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "line",
@@ -1653,7 +1675,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "IdCircuiti",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "line",
@@ -1809,7 +1832,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "data",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "line",
@@ -1920,7 +1944,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Nome",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "line",
@@ -2031,7 +2056,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "Nome",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "ellipse",
@@ -2097,7 +2123,8 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "IdGare",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "autoResize": true
     },
     {
       "type": "line",
@@ -2143,10 +2170,569 @@
           0
         ]
       ]
+    },
+    {
+      "id": "Z-iqjvLkbMpSTmjNCmgmJ",
+      "type": "text",
+      "x": 253.7582244873047,
+      "y": 1049.781550162394,
+      "width": 212.2198486328125,
+      "height": 225,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ax",
+      "roundness": null,
+      "seed": 346569296,
+      "version": 79,
+      "versionNonce": 294984880,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "RgpmAnfzbXV8EA-BIAeT1",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1746430327240,
+      "link": null,
+      "locked": false,
+      "text": "SELECT \n    *\nFROM\n    Piloti\nWHERE\n    Nome = 'Francesco'\nORDER BY\n    Nome\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "SELECT \n    *\nFROM\n    Piloti\nWHERE\n    Nome = 'Francesco'\nORDER BY\n    Nome\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "oOFHEBkvsJT6cSUaHBdPJ",
+      "type": "text",
+      "x": 445.7582448323568,
+      "y": 1010.5593245493299,
+      "width": 99.39991760253906,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ay",
+      "roundness": null,
+      "seed": 1560139856,
+      "version": 12,
+      "versionNonce": 472048304,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746428969587,
+      "link": null,
+      "locked": false,
+      "text": "Proiezione",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Proiezione",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "gX5YaVKtXHR-JHbQu9FGZ",
+      "type": "arrow",
+      "x": 488.4249047173395,
+      "y": 1052.3371091087915,
+      "width": 175.11111789279516,
+      "height": 37.333340115017336,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "az",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 309196464,
+      "version": 44,
+      "versionNonce": 1543361200,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746428974603,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -175.11111789279516,
+          37.333340115017336
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "N6qqQoVe03TiA6krwHnCu",
+      "type": "text",
+      "x": 522.2027096218534,
+      "y": 1179.4482473466387,
+      "width": 87.99992370605469,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b00",
+      "roundness": null,
+      "seed": 176121424,
+      "version": 27,
+      "versionNonce": 1543105200,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746428985396,
+      "link": null,
+      "locked": false,
+      "text": "Selezione",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Selezione",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "bsWq7G8v1pk8iik8AKh9V",
+      "type": "arrow",
+      "x": 485.75821092393664,
+      "y": 1192.781546771552,
+      "width": 120.88887532552076,
+      "height": 26.66663275824658,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b01",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 126078544,
+      "version": 25,
+      "versionNonce": 1433694896,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1746430306010,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -120.88887532552076,
+          -26.66663275824658
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "JiLQmtbAZWLgssf_TPjiJ",
+      "type": "text",
+      "x": 955.0915713840061,
+      "y": 967.8926646643472,
+      "width": 202.15980529785156,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b02",
+      "roundness": null,
+      "seed": 384725168,
+      "version": 64,
+      "versionNonce": 902831280,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "O_CLW9-aRcQwbWutt1z_q",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1746429039269,
+      "link": null,
+      "locked": false,
+      "text": "1 Francesco Bagniaia\n2 Marco Bezzecchi\n3         Quartararo",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "1 Francesco Bagniaia\n2 Marco Bezzecchi\n3         Quartararo",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "H2RV2AE0JLJql0sh8_aCE",
+      "type": "arrow",
+      "x": 649.3137800428603,
+      "y": 1180.3371226721597,
+      "width": 268.4444851345486,
+      "height": 152.00002034505223,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b03",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1645720144,
+      "version": 52,
+      "versionNonce": 1574792784,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746429030402,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          268.4444851345486,
+          -152.00002034505223
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "O_CLW9-aRcQwbWutt1z_q",
+      "type": "arrow",
+      "x": 531.0915985107423,
+      "y": 993.670456005493,
+      "width": 502.22215440538196,
+      "height": 163.5555691189236,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b04",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 892602544,
+      "version": 94,
+      "versionNonce": 2039787696,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746429039694,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          288.8888888888888,
+          -163.5555691189236
+        ],
+        [
+          502.22215440538196,
+          -42.666659884982664
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "JiLQmtbAZWLgssf_TPjiJ",
+        "focus": 0.43718873680896864,
+        "gap": 16.888868543836907
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "qL23vMItTDsThDNZeNb6h",
+      "type": "text",
+      "x": 455.53597513834643,
+      "y": 1249.670449223809,
+      "width": 603.6195678710938,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b05",
+      "roundness": null,
+      "seed": 530585776,
+      "version": 95,
+      "versionNonce": 97785520,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746432796294,
+      "link": null,
+      "locked": false,
+      "text": "Ordinamento ASC - ascendente A-Z e DESC discendente Z-A ",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Ordinamento ASC - ascendente A-Z e DESC discendente Z-A ",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "RgpmAnfzbXV8EA-BIAeT1",
+      "type": "arrow",
+      "x": 435.980480617947,
+      "y": 1259.448315163479,
+      "width": 71.11114501953114,
+      "height": 14.222242567274407,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b06",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2139724880,
+      "version": 68,
+      "versionNonce": 1438335152,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746430329904,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -71.11114501953114,
+          -14.222242567274407
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Z-iqjvLkbMpSTmjNCmgmJ",
+        "focus": -0.8977441300354951,
+        "gap": 15.333234998915032
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "U4JO7si7Ydzsvh-txO2p7",
+      "type": "text",
+      "x": 243.09158494737417,
+      "y": 1371.4482337832706,
+      "width": 428.3797607421875,
+      "height": 225,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b07",
+      "roundness": null,
+      "seed": 1434140336,
+      "version": 123,
+      "versionNonce": 953611440,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746432918701,
+      "link": null,
+      "locked": false,
+      "text": "SELECT \n    Piloti.Nome, Piloti.Nome, Squadre.nome\nFROM\n    Piloti\n    INNER JOIN Squadre ON\n        Piloti.IdSquadre = Squadre.IdSquadre\nORDER BY\n    Piloti.Nome\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "SELECT \n    Piloti.Nome, Piloti.Nome, Squadre.nome\nFROM\n    Piloti\n    INNER JOIN Squadre ON\n        Piloti.IdSquadre = Squadre.IdSquadre\nORDER BY\n    Piloti.Nome\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "vywofE3MIfFNLMatnxphw",
+      "type": "text",
+      "x": 809.3138478597004,
+      "y": 1388.3371362355276,
+      "width": 109.179931640625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b08",
+      "roundness": null,
+      "seed": 2052120752,
+      "version": 38,
+      "versionNonce": 118284368,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746432924715,
+      "link": null,
+      "locked": false,
+      "text": "Inner JOIN",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Inner JOIN",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "KX2S0n95U5KX547yjFS3z",
+      "type": "arrow",
+      "x": 780.8693627251519,
+      "y": 1405.2260047793643,
+      "width": 215.111083984375,
+      "height": 73.77777099609375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b09",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2133259952,
+      "version": 81,
+      "versionNonce": 1187675216,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746432929352,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -215.111083984375,
+          73.77777099609375
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {}
